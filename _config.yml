@@ -1,0 +1,28 @@
+name: Sean Lough
+favicon: null
+layout_spectrum: 0.6987086294684559
+typography_spectrum: 0.5408922783099115
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6639238388743252
+  lightness: 0.7766309871803969
+  saturation: 0.48273440287448466
+  rhythmicContrast: 0.08794886758551002
+purpose: []
