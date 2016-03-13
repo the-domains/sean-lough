@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sean Lough]]></title>
         <description><![CDATA[Sean Lough]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sean-lough/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 19:41:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Mar 2016 23:58:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sean-lough/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5f7f2f8-ad72-4657-aa3c-fafecab83e33.jpg">]]></description>
+            <link>https://thegrid.ai/sean-lough/stoic-yet/index.html</link>
+            <guid isPermaLink="false">e57ca154-c810-40e4-bd9d-e0ef34fa479c</guid>
+            <pubDate>Sun, 13 Mar 2016 23:58:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/78419664-0903-44ba-a7bd-c2e6406c0970.png">]]></description>
-            <link>undefinedf89e2001-a337-44dd-9be7-d152ac63abe4/index.html</link>
+            <link>https://thegrid.ai/sean-lough/f89e2001-a337-44dd-9be7-d152ac63abe4/index.html</link>
             <guid isPermaLink="false">f89e2001-a337-44dd-9be7-d152ac63abe4</guid>
             <pubDate>Mon, 18 Jan 2016 19:41:36 GMT</pubDate>
         </item>
